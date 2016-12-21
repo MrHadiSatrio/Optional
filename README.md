@@ -37,7 +37,7 @@ Include `Optional` to your Gradle project by adding it as a dependency in your `
    }
    
    dependencies {
-       compile 'com.hadisatrio:Optional:1.0.1'
+       compile 'com.hadisatrio:Optional:v1.0.1'
    }
 ```
 
