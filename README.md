@@ -1,7 +1,7 @@
 `Optional` – Java 8 Optional-like APIs for everyone
 ---
 
-[![JitPack][1]][2]
+[![Android Arsenal][1]][2] [![JitPack][3]][4]
 
 ![You get to use Optional! And you! And you there!](https://i.imgflip.com/1g8eyz.jpg)
 
@@ -56,5 +56,7 @@ Any kind of contributions will be appreciated. PR away!
 _**p.s.**, Please let me know if you're using `Optional` in your projects. Drop an email at 
 hi[you-know-what-to-put-here]hadisatrio.com._ ;)
 
-[1]: https://jitpack.io/v/MrHadiSatrio/Optional.svg?style=flat-square
-[2]: https://jitpack.io/#MrHadiSatrio/Optional
+[1]: https://img.shields.io/badge/Android%20Arsenal-Optional-brightgreen.svg?style=flat-square
+[2]: https://android-arsenal.com/details/1/4906
+[3]: https://jitpack.io/v/MrHadiSatrio/Optional.svg?style=flat-square
+[4]: https://jitpack.io/#MrHadiSatrio/Optional
