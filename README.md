@@ -35,15 +35,9 @@ Include `Optional` to your Gradle project by adding it as a dependency in your `
    }
    
    dependencies {
-       compile 'com.hadisatrio:Optional:develop-SNAPSHOT'
+       compile 'com.hadisatrio:Optional:1.0.0'
    }
 ```
-
-`1.0.0` will not be released until I have finished adding Javadoc to the APIs. In the mean time, you can use
-`develop-SNAPSHOT` as the version when adding `Optional` as a dependency like the sample shown above.
-
-I can assure you that no substantial API changes will ever take place before `1.0.0` – `develop-SNAPSHOT` is basically
-`1.0.0` without Javadocs. So, it's safe to include this library in your projects right now should you want to.
 
 
 ### Contributions 
