@@ -1,6 +1,8 @@
 `Optional` – Java 8 Optional-like APIs for everyone
 ---
 
+[![Android Arsenal][1]][2] [![JitPack][3]][4]
+
 ![You get to use Optional! And you! And you there!](https://i.imgflip.com/1g8eyz.jpg)
 
 
@@ -35,15 +37,9 @@ Include `Optional` to your Gradle project by adding it as a dependency in your `
    }
    
    dependencies {
-       compile 'com.hadisatrio:Optional:develop-SNAPSHOT'
+       compile 'com.hadisatrio:Optional:1.0.0'
    }
 ```
-
-`1.0.0` will not be released until I have finished adding Javadoc to the APIs. In the mean time, you can use
-`develop-SNAPSHOT` as the version when adding `Optional` as a dependency like the sample shown above.
-
-I can assure you that no substantial API changes will ever take place before `1.0.0` – `develop-SNAPSHOT` is basically
-`1.0.0` without Javadocs. So, it's safe to include this library in your projects right now should you want to.
 
 
 ### Contributions 
@@ -59,3 +55,8 @@ Any kind of contributions will be appreciated. PR away!
 
 _**p.s.**, Please let me know if you're using `Optional` in your projects. Drop an email at 
 hi[you-know-what-to-put-here]hadisatrio.com._ ;)
+
+[1]: https://img.shields.io/badge/Android%20Arsenal-Optional-brightgreen.svg?style=flat-square
+[2]: https://android-arsenal.com/details/1/4906
+[3]: https://jitpack.io/v/MrHadiSatrio/Optional.svg?style=flat-square
+[4]: https://jitpack.io/#MrHadiSatrio/Optional
